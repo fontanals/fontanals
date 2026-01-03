@@ -13,4 +13,3 @@ Currently looking for a long-term job in Japan.
 - Hobbies: Coding, traveling, swimming, anime, music
 - Favorite band: One Ok Rock
 - Favorite food: Feijão Tropeiro (Brazilian dish)
-- Favorite place in the world: Japan
