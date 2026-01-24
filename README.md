@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I'm **Lucas**, a Full Stack software developer with over 6 years of experience based in Portugal.
+I'm **Lucas**, a Full-Stack software engineer with over 6 years of experience based in Portugal.
 
 I like building things that challenge me and help me learn something new.
 
-My main stack is TypeScript, NodeJS, ReactJS, and PostgreSQL.
+My main stack is TypeScript, Node.js, React.js, and PostgreSQL.
 
 Currently looking for a long-term job in Japan.
 
